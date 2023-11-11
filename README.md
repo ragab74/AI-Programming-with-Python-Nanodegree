@@ -7,7 +7,7 @@ The first project dealt with using a given image classifier in order to identify
 <br />
 ### Own Image Classifier
 ----
-The second project dealt with building an image classifier almost from scratch. Only the very basic foundation of the code was given (i.e. some helper functions and tips). My submission included:
+The second project dealt with building an image classifier almost from scratch. We'll be using this [dataset](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html) of 102 flower categories. Only the very basic foundation of the code was given (i.e. some helper functions and tips). My submission included:
 * reading and transforming the data
 * choosing a suitable (pretrained) network architecture
 * defining a suitable classifier for the chosen architecture
